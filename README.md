@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me: pudri109@gmail.com
+🌱 The skill that I am currently interested in is django, react.
+
