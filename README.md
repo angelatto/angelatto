@@ -14,8 +14,8 @@
 
 <hr>
 
-<h2 align="center"> 💻 A language that I've developed at least once. </h2>
-<p align="center"> Java, Spring, NodeJS, RaspberryPI, Arduino </p>
+<h2 align="center"> ⌨️ A language that I've developed at least once. </h2>
+<p align="center"> Java, Spring, NodeJS, RaspberryPI, Arduino, Jupyther </p>
 
 <hr>
 
