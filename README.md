@@ -1,20 +1,29 @@
-### Hi there 👋
+<h1 align="center"> 👋 </h1>
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>
+    I'm a junior full stack developer. </br>
+    Currently, I am developing the web using Django and React.
+  </samp>
+</p>
 
-<!--
-**angelatto/angelatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center"> Python, Django, JS, React, Docker, Gitlab, SourceTree, Nginx, Jenkins, Cellery, Linux </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
 
-📫 How to reach me: pudri109@gmail.com
-🌱 The skill that I am currently interested in is django, react.
+<h2 align="center"> 💻 A language that I've developed at least once. </h2>
+<p align="center"> Java, Spring, NodeJS, RaspberryPI, Arduino </p>
 
+<hr>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  pudi109@gmail.com
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
