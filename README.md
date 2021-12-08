@@ -10,12 +10,12 @@
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center"> Python, Django, JS, React, PostgreSQL, ELK, Docker, Gitlab, SourceTree, Nginx, Jenkins, Cellery, Linux, Redis </p>
+<p align="center"> Python, Django, JS, React, PostgreSQL, ELK, Docker, Gitlab, SourceTree, Nginx, Jenkins, Cellery, Linux, Redis, RabbitMQ </p>
 
 <hr>
 
-<h2 align="center"> ⌨️ A language that I've developed at least once. </h2>
-<p align="center"> Java, Spring, NodeJS, RaspberryPI, Arduino, Jupyther, MySQL, Oracle </p>
+<h2 align="center"> ⌨️ A language or Skill that I've developed at least once. </h2>
+<p align="center"> Java, C, Spring, NodeJS, RaspberryPI, Arduino, Jupyther, MySQL, Oracle, Android</p>
 
 <hr>
 
