@@ -2,20 +2,20 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
-    I'm a junior full stack developer. </br>
-    Currently, I am developing the web using Django and React.
+    I'm a junior backend developer. </br>
+    Currently, I am developing the web using Django.
   </samp>
 </p>
 
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center"> Python, Django, JS, React, PostgreSQL, ELK, Docker, Gitlab, SourceTree, Nginx, Jenkins, Cellery, Linux, Redis, RabbitMQ </p>
+<p align="center"> Django, React, PostgreSQL, ELK, Docker, Gitlab, SourceTree, Nginx, Jenkins, Redis, RabbitMQ </p>
 
 <hr>
 
 <h2 align="center"> ⌨️ A language or Skill that I've developed at least once. </h2>
-<p align="center"> Java, C, Spring, NodeJS, RaspberryPI, Arduino, Jupyther, MySQL, Oracle, Android</p>
+<p align="center"> Java, C, Python, JS, Spring, JSP, NodeJS, Django, React, RaspberryPI, Arduino, Jupyther, MySQL, Oracle, Android</p>
 
 <hr>
 
