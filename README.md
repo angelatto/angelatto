@@ -5,7 +5,10 @@
     I'm a junior backend developer. </br>
     Currently, I am developing the web using Django.
   </samp>
- [![dlcowjd0322](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+ [![solved.ac dlcowjd0322](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlcowjd0322})](https://solved.ac/{dlcowjd0322})
+ [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={dlcowjd0322})](https://solved.ac/{dlcowjd0322})
+ [![Solved.ac
+ 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlcowjd0322})](https://solved.ac/{dlcowjd0322})
 </p>
 
 <hr>
