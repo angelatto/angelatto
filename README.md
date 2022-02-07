@@ -6,7 +6,7 @@
     Currently, I am developing the web using Django.
   </samp>
 </p>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcowjd0322">
+
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
@@ -23,7 +23,7 @@
 <p align="center">
   pudi109@gmail.com
 </p>
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcowjd0322">
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
