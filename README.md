@@ -8,6 +8,8 @@
  [![solved.ac dlcowjd0322](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlcowjd0322})](https://solved.ac/{dlcowjd0322})
  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={dlcowjd0322})](https://solved.ac/{dlcowjd0322})
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlcowjd0322})](https://solved.ac/{dlcowjd0322})
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcowjd0322)](https://solved.ac/dlcowjd0322/)
 </p>
 
 <hr>
