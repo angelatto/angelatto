@@ -5,7 +5,7 @@
     I'm a junior backend developer. </br>
     Currently, I am developing the web using Django.
   </samp>
-  [![https://solved.ac/profile/dlcowjd0322](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+ [![dlcowjd0322](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 </p>
 
 <hr>
