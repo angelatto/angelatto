@@ -5,9 +5,8 @@
     I'm a junior backend developer. </br>
     Currently, I am developing the web using Django.
   </samp>
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcowjd0322">
 </p>
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcowjd0322">
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
