@@ -6,7 +6,6 @@
     Currently, I am developing the web using Django.
   </samp>
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcowjd0322">
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcowjd0322)](https://solved.ac/dlcowjd0322/)
 </p>
 
 <hr>
