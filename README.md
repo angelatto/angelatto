@@ -3,7 +3,6 @@
 <p align="center">
   <samp>
     I'm a junior backend developer. </br>
-    Currently, I am developing the web using Django.
   </samp>
 </p>
 
